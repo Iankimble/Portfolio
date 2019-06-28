@@ -107,7 +107,9 @@ $("document").ready(() => {
         window.open("https://iankimble.github.io/yahrnPrototype/");
     });
 
-
+    $("#nbaCard").click(()=>{
+    window.open("https://www.behance.net/gallery/82201761/NBA-trading-card-concepts?")
+    });
 
 
 });
