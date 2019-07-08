@@ -42,14 +42,14 @@ margin: 0%;
 }
 
 #externalLinks{
-    float: left;    
+    float: left;  
+ 
 }
 
 #externalLinks li a{
     color: white;
     text-align: center;
     text-decoration: none;
-    display: block;
     padding: 10px 10px; 
 }
 
@@ -104,8 +104,7 @@ margin: 0%;
     height: 300px;
     width: 300px;
     border-radius: 10px;
-    margin: 3px;
-    opacity: 0.3;    
+    margin: 3px;    
 }
 
 #thumbnail21:hover{
@@ -117,8 +116,7 @@ opacity: 1;
     height: 300px;
     width: 300px;
     border-radius: 10px;
-    margin: 3px;
-    opacity: 0.3; 
+    margin: 3px; 
 }
 
 #thumbnailfb:hover{
@@ -129,13 +127,11 @@ opacity: 1;
 #thumbnailbw{
     height: 300px;    
     width: 300px;
-    border-radius: 10px;
-    opacity: 0.3;     
+    border-radius: 10px;    
 }
 
 #thumbnailbw:hover{
     transition: 0.3s;
-    opacity: 1;
 }
 
 li{
@@ -213,6 +209,10 @@ li{
 
 #form{
     text-align: center;
+}
+
+#emailLink{
+    color: white;
 }
 
 /****************************************************************************************************/
