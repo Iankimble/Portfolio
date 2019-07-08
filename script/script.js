@@ -107,17 +107,10 @@ $("document").ready(() => {
         window.open("https://iankimble.github.io/yahrnPrototype/");
     });
 
-<<<<<<< HEAD
 
     $("#nbaCard").click(()=>{
         window.open("https://www.behance.net/gallery/82201761/NBA-trading-card-concepts?");
     });
-=======
-    $("#nbaCard").click(() => {
-    window.open("https://www.behance.net/gallery/82201761/NBA-trading-card-concepts?")
-    });
-
->>>>>>> ed233fb4d12c5eb6325475e4ae15ce1015071f09
 
 });
 
