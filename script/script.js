@@ -109,7 +109,7 @@ $("document").ready(() => {
 
 
     $("#nbaCard").click(()=>{
-        window.open("https://www.behance.net/gallery/82201761/NBA-trading-card-concepts?");
+        window.open("https://nike-redesign.herokuapp.com/");
     });
 
 });
